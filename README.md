@@ -5,16 +5,17 @@ A React app to visualize recent wildfire occurence based on data from NASA API.
 * [x] Setup project/ dependencies
     * [x] npx create-react-app .
     * [x] npm install google-map-react @iconify/react @iconify/icons-mdi
-* [ ] Setup eslint
-    * [ ] npm install -D eslint
-    * [ ] npx eslint --init
-* [ ] Clean up bootsrapped code
-* [ ] Create and configure Map component
-* [ ] Add hooks to fetch data from NASA API
-* [ ] Add loader component
-* [ ] Mark location using Location Marker component
-* [ ] Create information box
-* [ ] Enhancements 
+* [x] Setup eslint
+    * [x] npm install -D eslint
+    * [x] npx eslint --init
+* [x] Clean up bootsrapped code
+* [x] Create and configure Map component
+* [x] Add hooks to fetch data from NASA API
+* [x] Add loader component
+* [x] Mark location using Location Marker component
+* [x] Create information box
+* [ ] Support other natural events
+* [ ] Deployment
 
 ## Available Scripts
 
