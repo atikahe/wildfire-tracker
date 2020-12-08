@@ -7,8 +7,6 @@ import Loader from './components/Loader'
 function App() {
   const [eventData, setEventData] = useState([])
   const [loading, setLoading] = useState(false)
-  console.log('eventData', eventData)
-  console.log('loading', loading)
 
   useEffect(() => {
     const fetchEvents = async () => {
