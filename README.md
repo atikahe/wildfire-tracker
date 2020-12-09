@@ -14,6 +14,7 @@ A React app to visualize recent wildfire occurence based on data from NASA API.
 * [x] Add loader component
 * [x] Mark location using Location Marker component
 * [x] Create information box
+* [ ] Add caching mechanism
 * [ ] Support other natural events
 * [ ] Deployment
 
